@@ -1,0 +1,2881 @@
+#EXTM3U
+#EXTINF:-1,The Mother
+http://ottshow.net:80/movie/Dinastija2301/N6SVhfN6SVhf/71862.mp4
+#EXTINF:-1,FTV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31733.ts
+#EXTINF:-1,BHT HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/214.ts
+#EXTINF:-1,Nova BH HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4.ts
+#EXTINF:-1,Face TV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2469.ts
+#EXTINF:-1,HAYAT HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40636.ts
+#EXTINF:-1,OBN HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11.ts
+#EXTINF:-1,N1 BIH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29845.ts
+#EXTINF:-1,FTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1.ts
+#EXTINF:-1,BHT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2.ts
+#EXTINF:-1,Nova BH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/13939.ts
+#EXTINF:-1,Face TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26.ts
+#EXTINF:-1,Hayat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29454.ts
+#EXTINF:-1,Hayat Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/546.ts
+#EXTINF:-1,OBN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68600.ts
+#EXTINF:-1,BN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68755.ts
+#EXTINF:-1,BN 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32379.ts
+#EXTINF:-1,RTRS
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/96.ts
+#EXTINF:-1,ATV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/10.ts
+#EXTINF:-1,Al Jazeera Balkans
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/99.ts
+#EXTINF:-1,0 Kanal
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12.ts
+#EXTINF:-1,O Kanal Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36411.ts
+#EXTINF:-1,MY tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/22820.ts
+#EXTINF:-1,Historija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69403.ts
+#EXTINF:-1,Alfa Sarajevo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/13.ts
+#EXTINF:-1,TV Sarajevo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/234.ts
+#EXTINF:-1,TV Zenica
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1209.ts
+#EXTINF:-1,TV Igman
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/14.ts
+#EXTINF:-1,BIR TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/28677.ts
+#EXTINF:-1,Televizija 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1568.ts
+#EXTINF:-1,Sandzak TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1070.ts
+#EXTINF:-1,USK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/676.ts
+#EXTINF:-1,TK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3.ts
+#EXTINF:-1,BPK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69412.ts
+#EXTINF:-1,HIT Brcko
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/650.ts
+#EXTINF:-1,RTV7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71621.ts
+#EXTINF:-1,RTV Slon
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/218.ts
+#EXTINF:-1,TV Kakanj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/210.ts
+#EXTINF:-1,Kanal 6 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9126.ts
+#EXTINF:-1,Smart tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33158.ts
+#EXTINF:-1,NTV Amna
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11265.ts
+#EXTINF:-1,RTV Maglaj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8409.ts
+#EXTINF:-1,Tatabrada TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1114.ts
+#EXTINF:-1,TV Posavina
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1074.ts
+#EXTINF:-1,TV Zivinice
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/65411.ts
+#EXTINF:-1,B1 Gradacac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2485.ts
+#EXTINF:-1,RTV Sana
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11587.ts
+#EXTINF:-1,RTV Cazin
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24947.ts
+#EXTINF:-1,TV Podrinje
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24511.ts
+#EXTINF:-1,Glas Drine
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1072.ts
+#EXTINF:-1,Neon TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36346.ts
+#EXTINF:-1,RTV Vogosca
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71117.ts
+#EXTINF:-1,Super Media TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26000.ts
+#EXTINF:-1,K3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1851.ts
+#EXTINF:-1,TVIS
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64139.ts
+#EXTINF:-1,RTV HB
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32084.ts
+#EXTINF:-1,Jata tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62989.ts
+#EXTINF:-1,Live Neum
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4097.ts
+#EXTINF:-1,Live Panonska
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16819.ts
+#EXTINF:-1,Live Sarajevo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16818.ts
+#EXTINF:-1,Live Kanjon Une
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30237.ts
+#EXTINF:-1,Live Tesanj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38497.ts
+#EXTINF:-1,Live Medina
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1624.ts
+#EXTINF:-1, Islam canel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35953.ts
+#EXTINF:-1,Saudi Kur an
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35955.ts
+#EXTINF:-1,HRT  1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30473.ts
+#EXTINF:-1,HRT  2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30474.ts
+#EXTINF:-1,HRT 3 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30475.ts
+#EXTINF:-1,Nova TV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2470.ts
+#EXTINF:-1,RTL HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30476.ts
+#EXTINF:-1,RTL 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45.ts
+#EXTINF:-1,Doma HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/112.ts
+#EXTINF:-1,N1 HR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3774.ts
+#EXTINF:-1,HRT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40.ts
+#EXTINF:-1,HRT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/41.ts
+#EXTINF:-1,HRT 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/353.ts
+#EXTINF:-1,HRT 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/354.ts
+#EXTINF:-1,HRT int.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9049.ts
+#EXTINF:-1,HRT Doku
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73694.ts
+#EXTINF:-1,Nova TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/22.ts
+#EXTINF:-1,Doma 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68556.ts
+#EXTINF:-1,Nova World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45126.ts
+#EXTINF:-1,Nova Cinema 4K
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69176.ts
+#EXTINF:-1,Nova Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39435.ts
+#EXTINF:-1,Nova Series
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72613.ts
+#EXTINF:-1,Nova Cinema 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39476.ts
+#EXTINF:-1,Nova Cinema 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45121.ts
+#EXTINF:-1,RTL 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23.ts
+#EXTINF:-1,RTL 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68558.ts
+#EXTINF:-1,RTL World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45127.ts
+#EXTINF:-1,RTL Passion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1198.ts
+#EXTINF:-1,RTL Crime
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1199.ts
+#EXTINF:-1,RTL Living
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2502.ts
+#EXTINF:-1,RTL Adria
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26431.ts
+#EXTINF:-1,RTL+
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45113.ts
+#EXTINF:-1,RTL Play
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45120.ts
+#EXTINF:-1,Z1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1550.ts
+#EXTINF:-1,Laudato 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24581.ts
+#EXTINF:-1,Vinkovacka 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/551.ts
+#EXTINF:-1,Slavonska 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1176.ts
+#EXTINF:-1,OTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4537.ts
+#EXTINF:-1,Zdrava Tv 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4632.ts
+#EXTINF:-1,VTV Varaždin
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/5015.ts
+#EXTINF:-1,Herceg Bosna
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/5017.ts
+#EXTINF:-1,Jadran tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/5018.ts
+#EXTINF:-1,Televizija Dalmacija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69879.ts
+#EXTINF:-1,SBTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9125.ts
+#EXTINF:-1,Poljoprivredna 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/22517.ts
+#EXTINF:-1,Libertas 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24582.ts
+#EXTINF:-1,TV Dubrovnik
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3819.ts
+#EXTINF:-1,Osjecka 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1207.ts
+#EXTINF:-1,Marry TV Medugorje
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29258.ts
+#EXTINF:-1,kanalR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66467.ts
+#EXTINF:-1,Mreža tv Zagreb
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39477.ts
+#EXTINF:-1,CroTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67281.ts
+#EXTINF:-1,Trend Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69886.ts
+#EXTINF:-1,Tv Zapad
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69895.ts
+#EXTINF:-1,Prigorska Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69903.ts
+#EXTINF:-1,Tv Sibenik
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71763.ts
+#EXTINF:-1,RTS 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39647.ts
+#EXTINF:-1,RTS 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/17.ts
+#EXTINF:-1,RTS 3 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1529.ts
+#EXTINF:-1,Pink HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68555.ts
+#EXTINF:-1,Prva HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25974.ts
+#EXTINF:-1,Nova S HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29409.ts
+#EXTINF:-1,Happy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25975.ts
+#EXTINF:-1,b92 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39.ts
+#EXTINF:-1,N1 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3775.ts
+#EXTINF:-1,SUPERSTAR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3985.ts
+#EXTINF:-1,SUPERSTAR 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4293.ts
+#EXTINF:-1,Prva TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30191.ts
+#EXTINF:-1,Prva Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/47.ts
+#EXTINF:-1,Prva Files
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/19.ts
+#EXTINF:-1,Prva Kick
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4739.ts
+#EXTINF:-1,Prva Life
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29824.ts
+#EXTINF:-1,Prva Max
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2848.ts
+#EXTINF:-1,Prva World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2828.ts
+#EXTINF:-1,RTS 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30272.ts
+#EXTINF:-1,RTS 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30274.ts
+#EXTINF:-1,RTS Sat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/361.ts
+#EXTINF:-1,RTS Drama
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/7174.ts
+#EXTINF:-1,RTS Trezor
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/7173.ts
+#EXTINF:-1,RTS Zivot
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/7175.ts
+#EXTINF:-1,RTS Kolo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73653.ts
+#EXTINF:-1,RTS Poletarac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73663.ts
+#EXTINF:-1,Happy Drustvo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73641.ts
+#EXTINF:-1,Happy Zivot
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73642.ts
+#EXTINF:-1,Happy Zemlja
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73643.ts
+#EXTINF:-1,K1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3821.ts
+#EXTINF:-1,Blic tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64142.ts
+#EXTINF:-1,Una TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67963.ts
+#EXTINF:-1,RTV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1172.ts
+#EXTINF:-1,RTV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2837.ts
+#EXTINF:-1,RTV Pazar
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20.ts
+#EXTINF:-1,Studio B
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1173.ts
+#EXTINF:-1,Euronews Serbia
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37917.ts
+#EXTINF:-1,Kurir TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12617.ts
+#EXTINF:-1,TSD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2540.ts
+#EXTINF:-1,Agro tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8412.ts
+#EXTINF:-1,Yu Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70254.ts
+#EXTINF:-1,Belle Ammi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3856.ts
+#EXTINF:-1,MLAVA TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2838.ts
+#EXTINF:-1,Palma Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/157.ts
+#EXTINF:-1,TV Hram
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2787.ts
+#EXTINF:-1,TV Jefimija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30214.ts
+#EXTINF:-1,TV Kraljevo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30215.ts
+#EXTINF:-1,TV Krusevac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30216.ts
+#EXTINF:-1, TV Leskovac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29825.ts
+#EXTINF:-1,TV Bor
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25999.ts
+#EXTINF:-1,TV Kladovo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2789.ts
+#EXTINF:-1,TV ISTOK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15.ts
+#EXTINF:-1,TV ISTOK 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2523.ts
+#EXTINF:-1,TV Centar
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71823.ts
+#EXTINF:-1,TV Pirot
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/74837.ts
+#EXTINF:-1,TV Koreni
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76475.ts
+#EXTINF:-1,PINK HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/5.ts
+#EXTINF:-1,Pink
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30275.ts
+#EXTINF:-1,Pink BH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12616.ts
+#EXTINF:-1,Pink Vesti
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67719.ts
+#EXTINF:-1,Pink Film
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/6.ts
+#EXTINF:-1,Pink Serije
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/232.ts
+#EXTINF:-1,Pink Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/150.ts
+#EXTINF:-1,Pink Classic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1182.ts
+#EXTINF:-1,Pink Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/42.ts
+#EXTINF:-1,Pink Crime & Mystery
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/110.ts
+#EXTINF:-1,Pink Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/614.ts
+#EXTINF:-1,Pink Horror
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/108.ts
+#EXTINF:-1,Pink Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1143.ts
+#EXTINF:-1,Pink Romance
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2796.ts
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1412.ts
+#EXTINF:-1,Pink Thriller
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/111.ts
+#EXTINF:-1,Pink Western
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/49.ts
+#EXTINF:-1,Pink World Cinema
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/153.ts
+#EXTINF:-1,Red TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37937.ts
+#EXTINF:-1,Pink Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35958.ts
+#EXTINF:-1,Pink Extra
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1211.ts
+#EXTINF:-1,Pink Reality
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35.ts
+#EXTINF:-1,Pink Kuvar
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/43.ts
+#EXTINF:-1,Pink Pedia
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1140.ts
+#EXTINF:-1,Pink Style
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1144.ts
+#EXTINF:-1,Pink Soap
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1214.ts
+#EXTINF:-1,Pink Show
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/211.ts
+#EXTINF:-1,Pink Zabava
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2795.ts
+#EXTINF:-1,Pink World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1142.ts
+#EXTINF:-1,Pink HA HA
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1161.ts
+#EXTINF:-1,Pink LOL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2612.ts
+#EXTINF:-1,Zadruga Live 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24116.ts
+#EXTINF:-1,Zadruga Live 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25891.ts
+#EXTINF:-1,Zadruga Live 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31811.ts
+#EXTINF:-1,Zadruga Live 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31812.ts
+#EXTINF:-1,SLO 1 TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2379.ts
+#EXTINF:-1,SLO 2 TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2628.ts
+#EXTINF:-1,SLO 3 TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23262.ts
+#EXTINF:-1,Planet Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2577.ts
+#EXTINF:-1,Planet 2 Tv 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12755.ts
+#EXTINF:-1,POP TV 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2576.ts
+#EXTINF:-1,POP Brio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4746.ts
+#EXTINF:-1,Pop Kino 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3657.ts
+#EXTINF:-1,Pop Oto
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3697.ts
+#EXTINF:-1,Kanal A
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2627.ts
+#EXTINF:-1,RTS Maribor
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23263.ts
+#EXTINF:-1,Nova 24 TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23264.ts
+#EXTINF:-1,TV VESELJAK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23257.ts
+#EXTINF:-1,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4747.ts
+#EXTINF:-1,HBO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23290.ts
+#EXTINF:-1,HBO 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23291.ts
+#EXTINF:-1,Fox
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4745.ts
+#EXTINF:-1,Fox Life
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23266.ts
+#EXTINF:-1,Fox Crime
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23267.ts
+#EXTINF:-1,Fox Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23268.ts
+#EXTINF:-1,Cinestar premiere 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23270.ts
+#EXTINF:-1,Cinestar Premiere 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23269.ts
+#EXTINF:-1,TV 1000
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23258.ts
+#EXTINF:-1,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23275.ts
+#EXTINF:-1,National Geographic Wild
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23274.ts
+#EXTINF:-1,Discovery Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23278.ts
+#EXTINF:-1,Discovery TLC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23260.ts
+#EXTINF:-1,Discovery ID
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23277.ts
+#EXTINF:-1,Animal Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23279.ts
+#EXTINF:-1,RTCG 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1080.ts
+#EXTINF:-1,RTCG 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2543.ts
+#EXTINF:-1,RTCG Sat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71118.ts
+#EXTINF:-1,Prva M
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9920.ts
+#EXTINF:-1,Nova M
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23607.ts
+#EXTINF:-1,Pink M
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/159.ts
+#EXTINF:-1,TV Vijesti CG
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1623.ts
+#EXTINF:-1,TV 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2770.ts
+#EXTINF:-1,RTV Rozaje
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71120.ts
+#EXTINF:-1,RTCG Parlament
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71122.ts
+#EXTINF:-1,MRT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1186.ts
+#EXTINF:-1,MRT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4611.ts
+#EXTINF:-1,MRT 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68077.ts
+#EXTINF:-1,MRT 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68076.ts
+#EXTINF:-1,MRT 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68084.ts
+#EXTINF:-1,TV Sitel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1162.ts
+#EXTINF:-1,TV Telma
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1174.ts
+#EXTINF:-1,TV Kanal 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1406.ts
+#EXTINF:-1,TV Alfa
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1411.ts
+#EXTINF:-1,24 Vesti
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2792.ts
+#EXTINF:-1,Hugo 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68081.ts
+#EXTINF:-1,Hugo 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68082.ts
+#EXTINF:-1,Hugo 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68083.ts
+#EXTINF:-1,B1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9846.ts
+#EXTINF:-1,Tera TV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29583.ts
+#EXTINF:-1,IN TV Avstralija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29584.ts
+#EXTINF:-1,TV Sonce 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68079.ts
+#EXTINF:-1,Alsat M
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68080.ts
+#EXTINF:-1,V Kanal
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68086.ts
+#EXTINF:-1,Folk tv MK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68078.ts
+#EXTINF:-1,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30519.ts
+#EXTINF:-1,HBO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30520.ts
+#EXTINF:-1,Imperija 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24800.ts
+#EXTINF:-1,Toxic TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3823.ts
+#EXTINF:-1,IDJ TV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1112.ts
+#EXTINF:-1,TV Sehara Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4264.ts
+#EXTINF:-1,UZIVOTEKA
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45114.ts
+#EXTINF:-1,Kafansko Vece
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70263.ts
+#EXTINF:-1,Extra Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68474.ts
+#EXTINF:-1,Hayat Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/51.ts
+#EXTINF:-1,Hayat Folk
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/131.ts
+#EXTINF:-1,BN Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/46.ts
+#EXTINF:-1,DM Sat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26004.ts
+#EXTINF:-1,Bravo Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35952.ts
+#EXTINF:-1,Pink Folk 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/97.ts
+#EXTINF:-1,Pink Folk 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/504.ts
+#EXTINF:-1,Grand
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/21.ts
+#EXTINF:-1,Grand 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1071.ts
+#EXTINF:-1,TV Sevdah
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/730.ts
+#EXTINF:-1,Izvorna TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/231.ts
+#EXTINF:-1,OTV Valentino
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/152.ts
+#EXTINF:-1,Valentino Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32083.ts
+#EXTINF:-1,Valentino Etno
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32082.ts
+#EXTINF:-1,BMC Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35956.ts
+#EXTINF:-1,BMC Etno
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69399.ts
+#EXTINF:-1,CityPlay
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69400.ts
+#EXTINF:-1,Toxic Folk
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66261.ts
+#EXTINF:-1,Duga TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/549.ts
+#EXTINF:-1,KCN 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/630.ts
+#EXTINF:-1,KCN 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/641.ts
+#EXTINF:-1,O Kanal Music
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36412.ts
+#EXTINF:-1,bravo!
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/74027.ts
+#EXTINF:-1,DMC Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69133.ts
+#EXTINF:-1,Jugoton TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/251.ts
+#EXTINF:-1,CMC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/113.ts
+#EXTINF:-1,Banovina 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1552.ts
+#EXTINF:-1,Klape i Tambure
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69348.ts
+#EXTINF:-1,Croatia Records
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69902.ts
+#EXTINF:-1,Pink Hits
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4140.ts
+#EXTINF:-1,Pink n Roll
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69401.ts
+#EXTINF:-1,Balkanika
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/239.ts
+#EXTINF:-1,Krone Hit
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69786.ts
+#EXTINF:-1,MTV Hits
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16758.ts
+#EXTINF:-1,MTV 00s
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/50.ts
+#EXTINF:-1,MTV 80s
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69350.ts
+#EXTINF:-1,MTV 90s
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69349.ts
+#EXTINF:-1,MTV Club
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16759.ts
+#EXTINF:-1,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/44.ts
+#EXTINF:-1,HBO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72.ts
+#EXTINF:-1,HBO 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1555.ts
+#EXTINF:-1,Cinemax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70.ts
+#EXTINF:-1,Cinemax  2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/126.ts
+#EXTINF:-1,CineStar Premiere 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36.ts
+#EXTINF:-1,CineStar Premiere 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37.ts
+#EXTINF:-1,CineStar TV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3851.ts
+#EXTINF:-1,CineStar TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37920.ts
+#EXTINF:-1,CineStar Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2685.ts
+#EXTINF:-1,CineStar Fantasy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/10444.ts
+#EXTINF:-1,CineStar Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30492.ts
+#EXTINF:-1,STAR Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/178.ts
+#EXTINF:-1,STAR Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25990.ts
+#EXTINF:-1,STAR Life
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1378.ts
+#EXTINF:-1,STAR Crime
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1553.ts
+#EXTINF:-1,M1 Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1351.ts
+#EXTINF:-1,M1 Film
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2494.ts
+#EXTINF:-1,M1 Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24936.ts
+#EXTINF:-1,TV 1000
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/705.ts
+#EXTINF:-1,AXN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1181.ts
+#EXTINF:-1,AXN Spin
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69009.ts
+#EXTINF:-1,SciFi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8859.ts
+#EXTINF:-1,Cinemania
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/357.ts
+#EXTINF:-1,Cinema TV BH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/174.ts
+#EXTINF:-1,Time Out
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24603.ts
+#EXTINF:-1,PickboxTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1630.ts
+#EXTINF:-1,Kino TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4223.ts
+#EXTINF:-1,DIVA
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4224.ts
+#EXTINF:-1,AMC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9109.ts
+#EXTINF:-1,EPIC Drama
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24362.ts
+#EXTINF:-1,Sehara TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29202.ts
+#EXTINF:-1,Klasik TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38.ts
+#EXTINF:-1,Film Klub
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1073.ts
+#EXTINF:-1,Euro Cinema 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68477.ts
+#EXTINF:-1,Euro Cinema 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68478.ts
+#EXTINF:-1,HBO MAX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45107.ts
+#EXTINF:-1,Cine+Select 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45268.ts
+#EXTINF:-1,Cine+Select 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45269.ts
+#EXTINF:-1,Cine+Select 3 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45270.ts
+#EXTINF:-1,Cine+Select 4 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45271.ts
+#EXTINF:-1,Cine+Select 5 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45272.ts
+#EXTINF:-1,Cine+Select 6 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45273.ts
+#EXTINF:-1,Cine+Select 7 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45274.ts
+#EXTINF:-1,Cine+Select 8 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45275.ts
+#EXTINF:-1,Cine+Select 9 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45276.ts
+#EXTINF:-1,Cine+Select 10 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45277.ts
+#EXTINF:-1,Lud Zbunjen Normalan
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68944.ts
+#EXTINF:-1,Baby TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40217.ts
+#EXTINF:-1,Minimax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/93.ts
+#EXTINF:-1,Mini Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/265.ts
+#EXTINF:-1,Nick Jr Hr.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25986.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68475.ts
+#EXTINF:-1,Nicktoons Hr.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71269.ts
+#EXTINF:-1,Nicktoons
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40979.ts
+#EXTINF:-1,Nickelodeon Hr.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25987.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68476.ts
+#EXTINF:-1,Cartoon Network Hr.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71267.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71113.ts
+#EXTINF:-1,Tnt Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66257.ts
+#EXTINF:-1,Pink Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/266.ts
+#EXTINF:-1,Pink Super Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71270.ts
+#EXTINF:-1,Kazbuka
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71116.ts
+#EXTINF:-1,Pikaboo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3854.ts
+#EXTINF:-1,Toon Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8858.ts
+#EXTINF:-1,Hayatovci
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25970.ts
+#EXTINF:-1,Cartoonito
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71114.ts
+#EXTINF:-1,Rtl Kockica
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25997.ts
+#EXTINF:-1,Disney Chanel 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71109.ts
+#EXTINF:-1,Disney Junior 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71268.ts
+#EXTINF:-1,Dexy Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67745.ts
+#EXTINF:-1,JimJam
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68479.ts
+#EXTINF:-1,HBO Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72614.ts
+#EXTINF:-1,Nova  Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67744.ts
+#EXTINF:-1,CoComelon
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69637.ts
+#EXTINF:-1,IDJ Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68943.ts
+#EXTINF:-1,Looney Tunes 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45122.ts
+#EXTINF:-1,Tom and Jerry
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67747.ts
+#EXTINF:-1,Psici u Ophodnji
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69630.ts
+#EXTINF:-1,Psici u ophodnji 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72028.ts
+#EXTINF:-1,Mickey Mouse
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/74173.ts
+#EXTINF:-1,Masa i Medo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67743.ts
+#EXTINF:-1,Pepa Prašcic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67746.ts
+#EXTINF:-1,Tri Mace
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69635.ts
+#EXTINF:-1,A Je To
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69632.ts
+#EXTINF:-1,Strumpfovi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69633.ts
+#EXTINF:-1,Pingvini
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69634.ts
+#EXTINF:-1,Mickey Mouse
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72012.ts
+#EXTINF:-1,Mr Magoo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72013.ts
+#EXTINF:-1,Larva
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72014.ts
+#EXTINF:-1,Blippi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72015.ts
+#EXTINF:-1,Lucky Luke
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72016.ts
+#EXTINF:-1,Alice i Lewis
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72017.ts
+#EXTINF:-1,SpongeBob
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72018.ts
+#EXTINF:-1,Pink Panther
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72019.ts
+#EXTINF:-1,Profesor Baltazar
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72020.ts
+#EXTINF:-1,Gormiti
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72021.ts
+#EXTINF:-1,MetaJets
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72022.ts
+#EXTINF:-1,Agent Binky
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72023.ts
+#EXTINF:-1,Bolek i Lolek
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72024.ts
+#EXTINF:-1,Nindza Kornjace
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72025.ts
+#EXTINF:-1,Kung-Fu Panda
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72026.ts
+#EXTINF:-1,Mr Bean
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72029.ts
+#EXTINF:-1,Mickey Mouse
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73981.ts
+#EXTINF:-1,La Linea
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73980.ts
+#EXTINF:-1,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25978.ts
+#EXTINF:-1,NatGeo Wild
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25977.ts
+#EXTINF:-1,Discovery Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68.ts
+#EXTINF:-1,Discovery ID
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25980.ts
+#EXTINF:-1,Discovery Science
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25984.ts
+#EXTINF:-1,Discovery XD 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12788.ts
+#EXTINF:-1,TLC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/74.ts
+#EXTINF:-1,Animal Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25983.ts
+#EXTINF:-1,Crime & Invvestigation
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25982.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2574.ts
+#EXTINF:-1,History 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25981.ts
+#EXTINF:-1,Viasat Nature
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4126.ts
+#EXTINF:-1,Viasat History
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2797.ts
+#EXTINF:-1,Viasat Explorer
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1204.ts
+#EXTINF:-1,Balkan Trip
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4485.ts
+#EXTINF:-1,Lov i Ribolov
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/65.ts
+#EXTINF:-1,Travel Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/181.ts
+#EXTINF:-1,Cbs Reality
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2836.ts
+#EXTINF:-1,BBC Earth
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24373.ts
+#EXTINF:-1,Planet Earth
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24374.ts
+#EXTINF:-1,Food Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33261.ts
+#EXTINF:-1,24 Kitchen
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25985.ts
+#EXTINF:-1,E! Entertainment
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2572.ts
+#EXTINF:-1,Woman TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29455.ts
+#EXTINF:-1,Doku TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31853.ts
+#EXTINF:-1,HGTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39108.ts
+#EXTINF:-1,Nautical Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71247.ts
+#EXTINF:-1,Love Nature 4K
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68948.ts
+#EXTINF:-1,Fashion TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9108.ts
+#EXTINF:-1,Eurosport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66.ts
+#EXTINF:-1,Eurosport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67.ts
+#EXTINF:-1,Sport Klub 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/34330.ts
+#EXTINF:-1,Sport Klub 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39321.ts
+#EXTINF:-1,Sport Klub 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62.ts
+#EXTINF:-1,Sport Klub 3 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64.ts
+#EXTINF:-1,Sport Klub 1 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39318.ts
+#EXTINF:-1,Sport Klub 2 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33.ts
+#EXTINF:-1,Sport Klub 3 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/34.ts
+#EXTINF:-1,Sport Klub 1 SL 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29776.ts
+#EXTINF:-1,Sport Klub 2 SL 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29777.ts
+#EXTINF:-1,Sport Klub 3 SL 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29779.ts
+#EXTINF:-1,Sport Klub 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/205.ts
+#EXTINF:-1,Sport Klub 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1202.ts
+#EXTINF:-1,Sport Klub 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1626.ts
+#EXTINF:-1,Sport Klub 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69870.ts
+#EXTINF:-1,Sport Klub 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69871.ts
+#EXTINF:-1,Sport Klub 9
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69872.ts
+#EXTINF:-1,Sport Klub 10
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69873.ts
+#EXTINF:-1,Arena Premium 1 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67283.ts
+#EXTINF:-1,Arena Premium 2 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67284.ts
+#EXTINF:-1,Arena Premium 3 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67285.ts
+#EXTINF:-1,Arena Premium 1 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39440.ts
+#EXTINF:-1,Arena Premium 2 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39441.ts
+#EXTINF:-1,Arena Premium 3 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39439.ts
+#EXTINF:-1,Arena Premium 1 SL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62594.ts
+#EXTINF:-1,Arena Sport 1 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/128.ts
+#EXTINF:-1,Arena Sport 2 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29.ts
+#EXTINF:-1,Arena Sport 3 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30.ts
+#EXTINF:-1,Arena Sport 4 BiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31.ts
+#EXTINF:-1,Arena Sport 1 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/27.ts
+#EXTINF:-1,Arena Sport 2 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/192.ts
+#EXTINF:-1,Arena Sport 3 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/193.ts
+#EXTINF:-1,Arena Sport 4 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/194.ts
+#EXTINF:-1,Arena Sport 5 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/645.ts
+#EXTINF:-1,Arena Sport 6 HR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37928.ts
+#EXTINF:-1,Arena Sport 7 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35185.ts
+#EXTINF:-1,Arena Sport 8 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35186.ts
+#EXTINF:-1,Arena Sport 9 HR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35187.ts
+#EXTINF:-1,Arena Sport 10 HR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/35188.ts
+#EXTINF:-1,Arena Sport 1 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/28.ts
+#EXTINF:-1,Arena Sport 2 SR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1043.ts
+#EXTINF:-1,Arena Sport 3 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1044.ts
+#EXTINF:-1,Arena Sport 4 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1045.ts
+#EXTINF:-1,Arena Sport 5 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66258.ts
+#EXTINF:-1,Arena Sport 6 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66259.ts
+#EXTINF:-1,Arena Sport 7 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70657.ts
+#EXTINF:-1,Arena Sport 8 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70658.ts
+#EXTINF:-1,Arena Sport 9 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70659.ts
+#EXTINF:-1,Arena Sport 10 SR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70660.ts
+#EXTINF:-1,Arena Sport 1 SL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62590.ts
+#EXTINF:-1,Arena Sport 2 SL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62591.ts
+#EXTINF:-1,Arena Sport 3 SL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62592.ts
+#EXTINF:-1,Arena Sport 4 SL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/62593.ts
+#EXTINF:-1,Arena ESport
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36410.ts
+#EXTINF:-1,Arena Sport 1x2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/66260.ts
+#EXTINF:-1,Sport SLO 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/206.ts
+#EXTINF:-1,Sport SLO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/207.ts
+#EXTINF:-1,Sport SLO 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/208.ts
+#EXTINF:-1,MAXSport 1 SD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71739.ts
+#EXTINF:-1,MAXSport 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2496.ts
+#EXTINF:-1,MAXSport 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/61224.ts
+#EXTINF:-1,Nova Sport 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25463.ts
+#EXTINF:-1,City TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29606.ts
+#EXTINF:-1,SPTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12622.ts
+#EXTINF:-1,SOS Kanal
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/204.ts
+#EXTINF:-1,Zvezda Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69875.ts
+#EXTINF:-1,Tv Partizan
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69874.ts
+#EXTINF:-1,Sport Klub Golf
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68481.ts
+#EXTINF:-1,Sport Klub Fight
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68480.ts
+#EXTINF:-1,Arena Fight
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30491.ts
+#EXTINF:-1,Fight Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/61.ts
+#EXTINF:-1,Eurosport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3420.ts
+#EXTINF:-1,Eurosport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4096.ts
+#EXTINF:-1,Dazn 1 SD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76836.ts
+#EXTINF:-1,DAZN 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25971.ts
+#EXTINF:-1,DAZN 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12615.ts
+#EXTINF:-1,Sky Sport News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1184.ts
+#EXTINF:-1,Sky Sport Top Event
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/147.ts
+#EXTINF:-1,Sky Sport Tenis
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/149.ts
+#EXTINF:-1,Sky Sport Mix
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25998.ts
+#EXTINF:-1,Sky Sport F 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33079.ts
+#EXTINF:-1,Sky Sport Golf
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23476.ts
+#EXTINF:-1,Sky Sport Premier League
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23475.ts
+#EXTINF:-1,Motorvision TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2876.ts
+#EXTINF:-1,Auto Motor TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4281.ts
+#EXTINF:-1,Blue Zoom
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32061.ts
+#EXTINF:-1,Blue Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32062.ts
+#EXTINF:-1,Blue Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45123.ts
+#EXTINF:-1,Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4103.ts
+#EXTINF:-1,Sport 1+
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76565.ts
+#EXTINF:-1,Sportdigital
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40970.ts
+#EXTINF:-1,ORF Sport+
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2875.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1164.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/61587.ts
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38539.ts
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25996.ts
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1166.ts
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1167.ts
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1168.ts
+#EXTINF:-1,Sky Sport Bundesliga 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1169.ts
+#EXTINF:-1,Sky Sport Bundesliga 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72619.ts
+#EXTINF:-1,Sky Sport Bundesliga 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72620.ts
+#EXTINF:-1,Sky Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76558.ts
+#EXTINF:-1,Sky Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76559.ts
+#EXTINF:-1,Sky Sport 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76560.ts
+#EXTINF:-1,Sky Sport 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76561.ts
+#EXTINF:-1,Sky Sport 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76562.ts
+#EXTINF:-1,Sky Sport 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76563.ts
+#EXTINF:-1,Sky Sport Austria 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1119.ts
+#EXTINF:-1,Sky Sport Austria 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30224.ts
+#EXTINF:-1,Sky  Sport Austria 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30225.ts
+#EXTINF:-1,Sky Sport Austria 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30226.ts
+#EXTINF:-1,Sky Sport Austria 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/61307.ts
+#EXTINF:-1,Sky Sport Austria 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/61308.ts
+#EXTINF:-1,Magenta Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68315.ts
+#EXTINF:-1,Magenta Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68316.ts
+#EXTINF:-1,Magenta Sport 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68317.ts
+#EXTINF:-1,Magenta Sport 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68318.ts
+#EXTINF:-1,Magenta Sport 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68319.ts
+#EXTINF:-1,Magenta Sport 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68320.ts
+#EXTINF:-1,Magenta Sport 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68322.ts
+#EXTINF:-1,Magenta Sport 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68323.ts
+#EXTINF:-1,Magenta Sport 9
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76582.ts
+#EXTINF:-1,Magenta Sport 10
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76583.ts
+#EXTINF:-1,RTL+ 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69342.ts
+#EXTINF:-1,RTL+ 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69343.ts
+#EXTINF:-1,RTL+ 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69344.ts
+#EXTINF:-1,RTL+ 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69345.ts
+#EXTINF:-1,RTL+ 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69346.ts
+#EXTINF:-1,RTL+ 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69347.ts
+#EXTINF:-1,Premijer Legue
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71274.ts
+#EXTINF:-1,NBA TV HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24722.ts
+#EXTINF:-1,Super Tennis HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2754.ts
+#EXTINF:-1,BeIN Sports HD 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12644.ts
+#EXTINF:-1,BeIN Sports HD 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12645.ts
+#EXTINF:-1,BeIN Sports HD 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12646.ts
+#EXTINF:-1,BeIN Sports HD 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12647.ts
+#EXTINF:-1,BeIN Sports HD 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12648.ts
+#EXTINF:-1,BeIN Sports HD 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12649.ts
+#EXTINF:-1,BeIN Sports HD 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12650.ts
+#EXTINF:-1,Bein Sports 1  FR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36407.ts
+#EXTINF:-1,Bein Sports 2 FR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36408.ts
+#EXTINF:-1,Bein Sports 3 FR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36409.ts
+#EXTINF:-1,Supersport 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29739.ts
+#EXTINF:-1,Supersport 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29740.ts
+#EXTINF:-1,Supersport 3 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29741.ts
+#EXTINF:-1,Supersport 4 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29742.ts
+#EXTINF:-1,Supersport 5 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/29743.ts
+#EXTINF:-1,Digi Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39886.ts
+#EXTINF:-1,Digi Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39887.ts
+#EXTINF:-1,Digi Sport 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39888.ts
+#EXTINF:-1,Digi Sport 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39889.ts
+#EXTINF:-1,Orange Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69800.ts
+#EXTINF:-1,Orange Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69802.ts
+#EXTINF:-1,Orange Sport 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69803.ts
+#EXTINF:-1,Orange Sport 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69804.ts
+#EXTINF:-1,LIG TV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39895.ts
+#EXTINF:-1,LIG TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39896.ts
+#EXTINF:-1,LIG TV 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39897.ts
+#EXTINF:-1,LIG TV 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39898.ts
+#EXTINF:-1,Eleven Sports 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67766.ts
+#EXTINF:-1,Eleven Sports 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67767.ts
+#EXTINF:-1,Eleven Sports 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67768.ts
+#EXTINF:-1,Polsat Sport
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67770.ts
+#EXTINF:-1,Polsat Sport Premium 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67771.ts
+#EXTINF:-1,Polsat Sport Premium 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67772.ts
+#EXTINF:-1,CANAL+ SPORT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67773.ts
+#EXTINF:-1,CANAL+ SPORT 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67774.ts
+#EXTINF:-1,CANAL+ SPORT 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71761.ts
+#EXTINF:-1,CANAL+ SPORT 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71762.ts
+#EXTINF:-1,TV2 Sport
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69797.ts
+#EXTINF:-1,TV2 Sport X
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69798.ts
+#EXTINF:-1,TV3 Sport
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68705.ts
+#EXTINF:-1,C More Live 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4444.ts
+#EXTINF:-1,C More Live 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4445.ts
+#EXTINF:-1,C More Live 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4446.ts
+#EXTINF:-1,C More Live 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4447.ts
+#EXTINF:-1,C More Fotboll
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40569.ts
+#EXTINF:-1,Sky Sport News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72627.ts
+#EXTINF:-1,Sky Sport Foodball
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72625.ts
+#EXTINF:-1,Sky Sport Arene
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72623.ts
+#EXTINF:-1,Sky Sport Mix
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72624.ts
+#EXTINF:-1,Sky Sport Golf
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72626.ts
+#EXTINF:-1,Sky Sport F1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71731.ts
+#EXTINF:-1,Sky Sport Cricket
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72645.ts
+#EXTINF:-1,Racing TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72646.ts
+#EXTINF:-1,ESPN 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25466.ts
+#EXTINF:-1,ESPN 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25465.ts
+#EXTINF:-1,ESPN 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25464.ts
+#EXTINF:-1,BT S 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39632.ts
+#EXTINF:-1,BT S 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39633.ts
+#EXTINF:-1,BT S 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39634.ts
+#EXTINF:-1,Sport TV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69683.ts
+#EXTINF:-1,Sport TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69684.ts
+#EXTINF:-1,Sport TV 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69685.ts
+#EXTINF:-1,Sport TV 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69686.ts
+#EXTINF:-1,Sport TV 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69687.ts
+#EXTINF:-1,Eleven Sports 1 PT
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69688.ts
+#EXTINF:-1,Eleven Sports 2 PT
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69689.ts
+#EXTINF:-1,Eleven Sports 3 PT
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69690.ts
+#EXTINF:-1,Fight Box
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/73899.ts
+#EXTINF:-1,Supersport Rugby
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75452.ts
+#EXTINF:-1,UFC Pass
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75526.ts
+#EXTINF:-1,Moto GP
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75534.ts
+#EXTINF:-1,RTK 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40866.ts
+#EXTINF:-1,RTK 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40867.ts
+#EXTINF:-1,RTK 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40868.ts
+#EXTINF:-1,RTK 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69791.ts
+#EXTINF:-1,ASHKALI TV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69792.ts
+#EXTINF:-1,ASHKALI TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69793.ts
+#EXTINF:-1,ASHKALI TV 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69794.ts
+#EXTINF:-1,TV Mitrovica
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69795.ts
+#EXTINF:-1,TV Dukagjini
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40869.ts
+#EXTINF:-1,RTSH 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40871.ts
+#EXTINF:-1,RTSH 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67697.ts
+#EXTINF:-1,RTSH 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67698.ts
+#EXTINF:-1,Top Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69457.ts
+#EXTINF:-1,ERA TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40870.ts
+#EXTINF:-1,KLAN KOSOVO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67695.ts
+#EXTINF:-1,Klan Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40873.ts
+#EXTINF:-1,FOLK +
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67706.ts
+#EXTINF:-1,AL: TV SHENJA 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40872.ts
+#EXTINF:-1,TV Koha
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40874.ts
+#EXTINF:-1,RTV 21
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67693.ts
+#EXTINF:-1,KTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67694.ts
+#EXTINF:-1,FILM AKSION
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67699.ts
+#EXTINF:-1,FILM AUTOR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67700.ts
+#EXTINF:-1, FILM HITS
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67701.ts
+#EXTINF:-1, FILM DRAME
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67702.ts
+#EXTINF:-1,FILM THRILLER
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67703.ts
+#EXTINF:-1,BABY TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67704.ts
+#EXTINF:-1,RTV 21 JUNIOR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67705.ts
+#EXTINF:-1,TRT 4K
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68949.ts
+#EXTINF:-1,TRT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40721.ts
+#EXTINF:-1,TRT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40722.ts
+#EXTINF:-1,ATV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40742.ts
+#EXTINF:-1,TV STAR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40731.ts
+#EXTINF:-1,Kanal D
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40741.ts
+#EXTINF:-1, Kanal 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40723.ts
+#EXTINF:-1,TV 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40725.ts
+#EXTINF:-1,CNN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40743.ts
+#EXTINF:-1,Haber
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40727.ts
+#EXTINF:-1,SHOW TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40729.ts
+#EXTINF:-1,SHOW TV MAX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40730.ts
+#EXTINF:-1,Haber Global
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40732.ts
+#EXTINF:-1,BEYAZ 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40733.ts
+#EXTINF:-1,FOX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40734.ts
+#EXTINF:-1,ULUSAL KANAL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40739.ts
+#EXTINF:-1,A 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40740.ts
+#EXTINF:-1,POWER TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69787.ts
+#EXTINF:-1,NR1 Turk HD TR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69788.ts
+#EXTINF:-1,Rai 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64045.ts
+#EXTINF:-1,Rai 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64047.ts
+#EXTINF:-1,Rai 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64048.ts
+#EXTINF:-1,Rai 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64049.ts
+#EXTINF:-1,Rai 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64050.ts
+#EXTINF:-1,Rai News 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68340.ts
+#EXTINF:-1,Rai Premium
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68345.ts
+#EXTINF:-1,Rai Movie
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68346.ts
+#EXTINF:-1,Rai Yoyo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68890.ts
+#EXTINF:-1,Rai Gulp
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68891.ts
+#EXTINF:-1,Rete 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64051.ts
+#EXTINF:-1,Canale 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64052.ts
+#EXTINF:-1,LA 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68338.ts
+#EXTINF:-1,LA 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68339.ts
+#EXTINF:-1,Mediaset Italia 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64053.ts
+#EXTINF:-1,Mediaset Italia 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68342.ts
+#EXTINF:-1,20 Mediaset
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68341.ts
+#EXTINF:-1,Mediaset Extra
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68344.ts
+#EXTINF:-1,Sky Atlantic 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68348.ts
+#EXTINF:-1,Sky Cinema Uno
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68349.ts
+#EXTINF:-1,Sky Cinema Due
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68350.ts
+#EXTINF:-1,Sky Arte
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68347.ts
+#EXTINF:-1,Sky Primafila 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/64055.ts
+#EXTINF:-1,Sky Primafila 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68351.ts
+#EXTINF:-1,Sky Primafila 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68352.ts
+#EXTINF:-1,Sky Primafila 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68353.ts
+#EXTINF:-1,Sky Primafila 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68354.ts
+#EXTINF:-1,Sky Primafila 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68355.ts
+#EXTINF:-1,Een
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75640.ts
+#EXTINF:-1,VTM
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75641.ts
+#EXTINF:-1,VTM 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75642.ts
+#EXTINF:-1,VTM 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75643.ts
+#EXTINF:-1,VTM 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75644.ts
+#EXTINF:-1,Play 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75645.ts
+#EXTINF:-1,Play 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75646.ts
+#EXTINF:-1,Play 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75647.ts
+#EXTINF:-1,2BE
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75648.ts
+#EXTINF:-1,RTL BE
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75649.ts
+#EXTINF:-1,RTL tvi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75650.ts
+#EXTINF:-1,Ketnet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75651.ts
+#EXTINF:-1,BTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75652.ts
+#EXTINF:-1,Club RTL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75653.ts
+#EXTINF:-1,AB 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75654.ts
+#EXTINF:-1,AB 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75655.ts
+#EXTINF:-1,ATV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75656.ts
+#EXTINF:-1,Canal Zoom
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75657.ts
+#EXTINF:-1,Canvas
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75658.ts
+#EXTINF:-1,Lux tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75659.ts
+#EXTINF:-1,TVP 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67750.ts
+#EXTINF:-1,TVP 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67751.ts
+#EXTINF:-1,TVP 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69709.ts
+#EXTINF:-1,Polsat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67752.ts
+#EXTINF:-1,Polsat 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67754.ts
+#EXTINF:-1,Polonia 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67753.ts
+#EXTINF:-1,TVP Info
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67755.ts
+#EXTINF:-1,TVN TURBO 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67756.ts
+#EXTINF:-1,TVN 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67757.ts
+#EXTINF:-1,Canal+1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67758.ts
+#EXTINF:-1,Canal+Premium
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67759.ts
+#EXTINF:-1,Canal+Film
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67760.ts
+#EXTINF:-1,Canal+Familiy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67761.ts
+#EXTINF:-1,Canal+Seriale
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67762.ts
+#EXTINF:-1,HBO 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67765.ts
+#EXTINF:-1,Filmbox Premium
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67763.ts
+#EXTINF:-1,FilmBox Extra
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67764.ts
+#EXTINF:-1,Kino Polska
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67775.ts
+#EXTINF:-1,Fox 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67776.ts
+#EXTINF:-1,Fox Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67777.ts
+#EXTINF:-1,Nat Geo 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67778.ts
+#EXTINF:-1,National Geographic Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67779.ts
+#EXTINF:-1,Animal Planet 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67780.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67781.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67782.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67783.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67784.ts
+#EXTINF:-1,Nicktoons 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67785.ts
+#EXTINF:-1,M1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67786.ts
+#EXTINF:-1,M2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67787.ts
+#EXTINF:-1,M3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67788.ts
+#EXTINF:-1,M5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67790.ts
+#EXTINF:-1,TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75417.ts
+#EXTINF:-1,TV 2 Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75416.ts
+#EXTINF:-1,ATV 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67819.ts
+#EXTINF:-1,Story 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/74755.ts
+#EXTINF:-1,Duna
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67791.ts
+#EXTINF:-1,SUPER TV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67794.ts
+#EXTINF:-1,RTL 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67792.ts
+#EXTINF:-1,RTL Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67795.ts
+#EXTINF:-1,RTL Klub 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67793.ts
+#EXTINF:-1,TV Paprika
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67813.ts
+#EXTINF:-1,Cool TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67818.ts
+#EXTINF:-1,HBO 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67799.ts
+#EXTINF:-1,HBO 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67800.ts
+#EXTINF:-1,HBO 3 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67801.ts
+#EXTINF:-1,Cinemax 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67809.ts
+#EXTINF:-1,Cinemax 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67810.ts
+#EXTINF:-1,FILM Box Extra 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67811.ts
+#EXTINF:-1,Film Box Premium 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67812.ts
+#EXTINF:-1,Film Cafe
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67796.ts
+#EXTINF:-1,Film Now
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67797.ts
+#EXTINF:-1,Film Mania
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67798.ts
+#EXTINF:-1,Digi World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67814.ts
+#EXTINF:-1,Discovery  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67815.ts
+#EXTINF:-1,National Geographic Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67816.ts
+#EXTINF:-1,Paramount Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67817.ts
+#EXTINF:-1,TV 2 Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67820.ts
+#EXTINF:-1,Minimax 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67822.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67823.ts
+#EXTINF:-1,Boomerang
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67821.ts
+#EXTINF:-1,NPO 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67855.ts
+#EXTINF:-1,NPO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67856.ts
+#EXTINF:-1,NPO 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67857.ts
+#EXTINF:-1,SBS 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67858.ts
+#EXTINF:-1,SBS 9
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67859.ts
+#EXTINF:-1,RTL 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67860.ts
+#EXTINF:-1,RTL 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67861.ts
+#EXTINF:-1,RTL 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67862.ts
+#EXTINF:-1,RTL 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67863.ts
+#EXTINF:-1,RTL Z
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67864.ts
+#EXTINF:-1,Net 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67869.ts
+#EXTINF:-1,Family 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67870.ts
+#EXTINF:-1,Film 1 Premiere
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67865.ts
+#EXTINF:-1,Film 1 Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67866.ts
+#EXTINF:-1,Film 1 Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67867.ts
+#EXTINF:-1,Film 1 Drama
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67868.ts
+#EXTINF:-1,Fox 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67880.ts
+#EXTINF:-1,Love Nature
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67875.ts
+#EXTINF:-1,Nat Geo 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67871.ts
+#EXTINF:-1,National Geo Wild  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67872.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67873.ts
+#EXTINF:-1,History  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67874.ts
+#EXTINF:-1,Veronica-Disney XD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67876.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67877.ts
+#EXTINF:-1,Nicktoons 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67878.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67879.ts
+#EXTINF:-1,NRK 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67881.ts
+#EXTINF:-1,NRK 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67882.ts
+#EXTINF:-1,NRK 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67883.ts
+#EXTINF:-1,TV Norge
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67886.ts
+#EXTINF:-1,TV Norge 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67887.ts
+#EXTINF:-1,TV3 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67890.ts
+#EXTINF:-1,Matkanalen
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67884.ts
+#EXTINF:-1,Max Norway
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67885.ts
+#EXTINF:-1,TV 2 Zebra
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67888.ts
+#EXTINF:-1,TV 2 Nyheter
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71387.ts
+#EXTINF:-1,TV6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67891.ts
+#EXTINF:-1,TV2 News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67892.ts
+#EXTINF:-1,Nat Geo 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67893.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67894.ts
+#EXTINF:-1,TLC 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67895.ts
+#EXTINF:-1,Nick Jr  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67896.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67897.ts
+#EXTINF:-1,Disney Canel 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67898.ts
+#EXTINF:-1,Bravo! Rock
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72615.ts
+#EXTINF:-1,Bravo! Balade
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72616.ts
+#EXTINF:-1,Bravo! Pop
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72617.ts
+#EXTINF:-1,Extra Fm
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71271.ts
+#EXTINF:-1,Extra Fresh
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71273.ts
+#EXTINF:-1,Radio Merlyn
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69134.ts
+#EXTINF:-1,Big Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68892.ts
+#EXTINF:-1,Naxi  Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68905.ts
+#EXTINF:-1,Naxi Slager Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69337.ts
+#EXTINF:-1,Naxi Boem Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69338.ts
+#EXTINF:-1,Naxi Ex-Yu Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69340.ts
+#EXTINF:-1,Morava vic radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/63833.ts
+#EXTINF:-1,Radio Valentino
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/63461.ts
+#EXTINF:-1,RSG-radio stari grad
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/21880.ts
+#EXTINF:-1,BH Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/21881.ts
+#EXTINF:-1,Radio FBiH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/21882.ts
+#EXTINF:-1,Imperija Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30391.ts
+#EXTINF:-1,Kalman radio-Narodni radio 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20704.ts
+#EXTINF:-1,Antena radio jelah
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/21879.ts
+#EXTINF:-1,Radio Avaz
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2534.ts
+#EXTINF:-1,BN Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2527.ts
+#EXTINF:-1,Radio Nostalgija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2528.ts
+#EXTINF:-1,Radio-VAL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/59382.ts
+#EXTINF:-1,Radio Blato 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/49322.ts
+#EXTINF:-1,Radio Korcula
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/59383.ts
+#EXTINF:-1,Narodni radio HR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20719.ts
+#EXTINF:-1,Radio Split
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/59384.ts
+#EXTINF:-1,HRT HR 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15282.ts
+#EXTINF:-1,HRT HR 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15281.ts
+#EXTINF:-1,Radio Dalmacija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20720.ts
+#EXTINF:-1,Bum Radio Kraljevo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2529.ts
+#EXTINF:-1,Hit Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2530.ts
+#EXTINF:-1,Radio Sevdah
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2535.ts
+#EXTINF:-1,Radio Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2633.ts
+#EXTINF:-1,Radio Marija BH
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3735.ts
+#EXTINF:-1,OK Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9141.ts
+#EXTINF:-1,Rovinj FM
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15211.ts
+#EXTINF:-1,Radio Vrbovec 94.5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15215.ts
+#EXTINF:-1,Radio Sunce
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15219.ts
+#EXTINF:-1,Radio Quirinus 91.7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15226.ts
+#EXTINF:-1,Radio Ogulin
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15228.ts
+#EXTINF:-1,Radio Moslavina
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15231.ts
+#EXTINF:-1,Radio Martin
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15233.ts
+#EXTINF:-1,Radio Marija
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15234.ts
+#EXTINF:-1,Radio Kaj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15239.ts
+#EXTINF:-1,Radio Deejay HR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15242.ts
+#EXTINF:-1,Radio Banovina
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15245.ts
+#EXTINF:-1,Radio 101 FM
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15249.ts
+#EXTINF:-1,Radio 057
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15251.ts
+#EXTINF:-1,Obiteljski Radio Ivanic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15255.ts
+#EXTINF:-1,Novi Radio Zadar
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15256.ts
+#EXTINF:-1,KLFM.ORG
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15265.ts
+#EXTINF:-1,KLFM
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15266.ts
+#EXTINF:-1,Hit Rado Sinj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15285.ts
+#EXTINF:-1,Gold FM Uzivo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15286.ts
+#EXTINF:-1,Gold FM
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15287.ts
+#EXTINF:-1,ENTER Zagreb
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15289.ts
+#EXTINF:-1,City-radio 88.6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15310.ts
+#EXTINF:-1,Antena Zagreb Uživo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/15313.ts
+#EXTINF:-1,Cool Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20702.ts
+#EXTINF:-1,Kitt Radio Wien 23
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20705.ts
+#EXTINF:-1,Radio DJ Sultan M 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20706.ts
+#EXTINF:-1,RADIO HIT Merak
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20707.ts
+#EXTINF:-1,Radio BIR Bosna
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20708.ts
+#EXTINF:-1,Vip zvuci rodnog kraja
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20710.ts
+#EXTINF:-1,Antena Radio Krusevac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20711.ts
+#EXTINF:-1,Civijas Radio Sabac
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20712.ts
+#EXTINF:-1,Otvorena Mreza Sarajavo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20718.ts
+#EXTINF:-1,Radio Posavina
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/36344.ts
+#EXTINF:-1,CER (SABAC)
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38433.ts
+#EXTINF:-1,Radio S Juzni
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38538.ts
+#EXTINF:-1,Naxi Latino
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69328.ts
+#EXTINF:-1,Naxi Cafe Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69329.ts
+#EXTINF:-1,Naxi 80E Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69330.ts
+#EXTINF:-1,Naxi Dance Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69331.ts
+#EXTINF:-1,Naxi 90E Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69332.ts
+#EXTINF:-1,Naxi Love Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69333.ts
+#EXTINF:-1,Naxi Jaaz radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69334.ts
+#EXTINF:-1,Naxi 70E Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69335.ts
+#EXTINF:-1,Naxi Classic Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69336.ts
+#EXTINF:-1,Naxi Rock Radio
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69341.ts
+#EXTINF:-1,Radio Feral
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76741.ts
+#EXTINF:-1,Radio Glas Drine
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76742.ts
+#EXTINF:-1,Pink Erotic 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/53.ts
+#EXTINF:-1,Pink Erotic 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/54.ts
+#EXTINF:-1,Pink Erotic 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/55.ts
+#EXTINF:-1,Pink Erotic 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/95.ts
+#EXTINF:-1,Pink Erotic 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/90.ts
+#EXTINF:-1,Pink Erotic 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1641.ts
+#EXTINF:-1,Pink Erotic 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1642.ts
+#EXTINF:-1,Pink Erotic 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1643.ts
+#EXTINF:-1,Hustler Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1645.ts
+#EXTINF:-1,Redlight Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9124.ts
+#EXTINF:-1,Dorcel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12955.ts
+#EXTINF:-1,Dusk
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1644.ts
+#EXTINF:-1,Playboy Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32450.ts
+#EXTINF:-1,Vivid Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12961.ts
+#EXTINF:-1,Vivid Red
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12960.ts
+#EXTINF:-1,Private Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12956.ts
+#EXTINF:-1,Eroxxx
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12963.ts
+#EXTINF:-1,Penthouse Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12957.ts
+#EXTINF:-1,Balkan Erotic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32449.ts
+#EXTINF:-1,Fake Taxi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12959.ts
+#EXTINF:-1,RK Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12958.ts
+#EXTINF:-1,Mia Khalifa
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12962.ts
+#EXTINF:-1,Fake Hospital
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32452.ts
+#EXTINF:-1,Babes tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68951.ts
+#EXTINF:-1,Reality Kings 4K
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68952.ts
+#EXTINF:-1,XY Max
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68950.ts
+#EXTINF:-1,Adult Channel 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32451.ts
+#EXTINF:-1,Adult Channel 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32448.ts
+#EXTINF:-1,Adult Channel 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68953.ts
+#EXTINF:-1,Adult Channel 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68954.ts
+#EXTINF:-1,SVT1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3680.ts
+#EXTINF:-1,SVT2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3679.ts
+#EXTINF:-1,Barnkanalen
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4448.ts
+#EXTINF:-1,TV 3 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3685.ts
+#EXTINF:-1,TV 4 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3688.ts
+#EXTINF:-1,TV 5 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3684.ts
+#EXTINF:-1,TV 6 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3687.ts
+#EXTINF:-1,TV 7 Sjuan Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3683.ts
+#EXTINF:-1,TV 8 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3686.ts
+#EXTINF:-1,TV 9 Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3689.ts
+#EXTINF:-1,TV 10
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/13016.ts
+#EXTINF:-1,TV 11
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11257.ts
+#EXTINF:-1,TV 12
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/13017.ts
+#EXTINF:-1,TV 4 Film Sverige
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3682.ts
+#EXTINF:-1,TV4 Fakta
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11255.ts
+#EXTINF:-1,C More First HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24104.ts
+#EXTINF:-1,C More Hits HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24105.ts
+#EXTINF:-1,C More Series HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24106.ts
+#EXTINF:-1,C More Stars HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24107.ts
+#EXTINF:-1,Viasat Film Premiere
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23285.ts
+#EXTINF:-1,Viasat Film Family HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24108.ts
+#EXTINF:-1,Viasat Film Hits HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24109.ts
+#EXTINF:-1,Viasat Film Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25838.ts
+#EXTINF:-1,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2755.ts
+#EXTINF:-1,Discovery Science
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11256.ts
+#EXTINF:-1,Discovery HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11259.ts
+#EXTINF:-1,Animal Planet HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23253.ts
+#EXTINF:-1,TLC HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23252.ts
+#EXTINF:-1,Disney junior
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2751.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/11260.ts
+#EXTINF:-1,Nick Jr
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/12984.ts
+#EXTINF:-1,DR1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3675.ts
+#EXTINF:-1,DR2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3676.ts
+#EXTINF:-1,TV2 Charlie
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3667.ts
+#EXTINF:-1,TV2 Fri
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3668.ts
+#EXTINF:-1,TV2 News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3669.ts
+#EXTINF:-1,TV2 Zulu
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3670.ts
+#EXTINF:-1,TV2 Nord
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3678.ts
+#EXTINF:-1,TV2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3690.ts
+#EXTINF:-1,TV3+
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3662.ts
+#EXTINF:-1,3 Puls
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3663.ts
+#EXTINF:-1,TV3 Denmark HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3671.ts
+#EXTINF:-1,Kanal 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3665.ts
+#EXTINF:-1, DK4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3677.ts
+#EXTINF:-1,Kanale 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69796.ts
+#EXTINF:-1,6 eren
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2756.ts
+#EXTINF:-1,Canal 9
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3664.ts
+#EXTINF:-1,Disney Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2720.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3673.ts
+#EXTINF:-1,National Geographic HD DK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40756.ts
+#EXTINF:-1,Animal Planet FHD DK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40757.ts
+#EXTINF:-1,Nat Geo Wild HD DK 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40758.ts
+#EXTINF:-1,VIASAT FILM FAMILY
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40760.ts
+#EXTINF:-1,TVR 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1848.ts
+#EXTINF:-1,TVR 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1849.ts
+#EXTINF:-1,Kanal D
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1850.ts
+#EXTINF:-1,Pro TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4057.ts
+#EXTINF:-1,National Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8365.ts
+#EXTINF:-1,Prima
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/22326.ts
+#EXTINF:-1,Diva
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69818.ts
+#EXTINF:-1,Hora Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69813.ts
+#EXTINF:-1,Agro Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69814.ts
+#EXTINF:-1,Romania Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69816.ts
+#EXTINF:-1,Acasa
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8367.ts
+#EXTINF:-1,Acasa Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69809.ts
+#EXTINF:-1,Music Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24361.ts
+#EXTINF:-1,Tvplus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32478.ts
+#EXTINF:-1,Etno HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2491.ts
+#EXTINF:-1,Pro Arena
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69806.ts
+#EXTINF:-1,Pro Cinema
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24415.ts
+#EXTINF:-1,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2606.ts
+#EXTINF:-1,HBO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8366.ts
+#EXTINF:-1,HBO 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24414.ts
+#EXTINF:-1,Cinemax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24413.ts
+#EXTINF:-1,Cinemax 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24412.ts
+#EXTINF:-1,Filmbox
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69833.ts
+#EXTINF:-1,FilmBox Stars
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69834.ts
+#EXTINF:-1,FilmBox Family 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69835.ts
+#EXTINF:-1,Digi World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69827.ts
+#EXTINF:-1,Digi Animal World
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/24360.ts
+#EXTINF:-1,Digi Life
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69828.ts
+#EXTINF:-1,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69829.ts
+#EXTINF:-1,National G Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69830.ts
+#EXTINF:-1,Discovery  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69831.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69832.ts
+#EXTINF:-1,Nickelodeon
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69836.ts
+#EXTINF:-1,Minimax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69837.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69838.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69839.ts
+#EXTINF:-1,BBC 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71194.ts
+#EXTINF:-1,BBC 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71197.ts
+#EXTINF:-1,BBC 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71198.ts
+#EXTINF:-1,BBC Ireland
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71199.ts
+#EXTINF:-1,ITV 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71200.ts
+#EXTINF:-1,ITV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67282.ts
+#EXTINF:-1,ITV 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71203.ts
+#EXTINF:-1,ITV 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71204.ts
+#EXTINF:-1,RTE 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71205.ts
+#EXTINF:-1,RTE 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71206.ts
+#EXTINF:-1,RTE News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71207.ts
+#EXTINF:-1,BBC News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71208.ts
+#EXTINF:-1,Euronews
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71209.ts
+#EXTINF:-1,CNN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71210.ts
+#EXTINF:-1,Channel 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71211.ts
+#EXTINF:-1,Channel 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71212.ts
+#EXTINF:-1,S4C
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71226.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71215.ts
+#EXTINF:-1,Sky Cinema Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71217.ts
+#EXTINF:-1,Sky Cinema Hits
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71218.ts
+#EXTINF:-1,Sky Cinema Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71219.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71220.ts
+#EXTINF:-1,Sky Cinema Sci-Fi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71221.ts
+#EXTINF:-1,Sky Cinema Select
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71222.ts
+#EXTINF:-1,Sky Atlantic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71225.ts
+#EXTINF:-1,B4U Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71223.ts
+#EXTINF:-1,Amc
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71231.ts
+#EXTINF:-1,TCM Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71224.ts
+#EXTINF:-1,Comedy Central
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71227.ts
+#EXTINF:-1,Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71228.ts
+#EXTINF:-1,E!
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71229.ts
+#EXTINF:-1,CBS Drama
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71230.ts
+#EXTINF:-1,CBS Reality
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71232.ts
+#EXTINF:-1,National G Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71233.ts
+#EXTINF:-1,Travel Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71235.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71236.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71237.ts
+#EXTINF:-1,Discovery History
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71238.ts
+#EXTINF:-1,Discovery Science
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71239.ts
+#EXTINF:-1,Investgation Discovery
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71240.ts
+#EXTINF:-1,Animal Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71241.ts
+#EXTINF:-1,Food Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71242.ts
+#EXTINF:-1,Disney Junior 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71243.ts
+#EXTINF:-1,RTE Jr.
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71244.ts
+#EXTINF:-1,Baby TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71245.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71246.ts
+#EXTINF:-1,NBC
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1,CBS Dallas
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1,CBS Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1,CBS Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1,CBS Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1,CBS Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+#EXTINF:-1,CBS Colorado
+http://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,24 Network
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
+#EXTINF:-1,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,FOX News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69722.ts
+#EXTINF:-1,HBO Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69723.ts
+#EXTINF:-1,HBO Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69724.ts
+#EXTINF:-1,HBO Signature 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69725.ts
+#EXTINF:-1,HBO West
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69726.ts
+#EXTINF:-1,HBO Zone
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69727.ts
+#EXTINF:-1,Showtime
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69729.ts
+#EXTINF:-1,Showtime 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69730.ts
+#EXTINF:-1,Showtime Extreme
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69731.ts
+#EXTINF:-1,Showtime Family Zone
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69732.ts
+#EXTINF:-1,Showtime Next
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69733.ts
+#EXTINF:-1,Showtime Showcase
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69734.ts
+#EXTINF:-1,Showtime West
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69736.ts
+#EXTINF:-1,Showtime Women
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69737.ts
+#EXTINF:-1,Oprah Winfrey Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69738.ts
+#EXTINF:-1,American Heroes Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69745.ts
+#EXTINF:-1,A&E
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69746.ts
+#EXTINF:-1,BBC America
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69747.ts
+#EXTINF:-1,CNBS
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69748.ts
+#EXTINF:-1,MSNBC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69749.ts
+#EXTINF:-1,Fox
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69751.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69752.ts
+#EXTINF:-1,Fuse
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69753.ts
+#EXTINF:-1,FX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69754.ts
+#EXTINF:-1,Red Bull Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69840.ts
+#EXTINF:-1,NBC Sports Bay Area
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69750.ts
+#EXTINF:-1,Fox Sport 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69739.ts
+#EXTINF:-1,Fox Sport 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69841.ts
+#EXTINF:-1,NBC Sports 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69740.ts
+#EXTINF:-1,PAC 12 NETWORK
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69741.ts
+#EXTINF:-1,NFL Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69742.ts
+#EXTINF:-1,NFL Redzone
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69743.ts
+#EXTINF:-1,MLB Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69744.ts
+#EXTINF:-1,ABC 2
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1,ABC 4
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01
+#EXTINF:-1,ABC 5
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01
+#EXTINF:-1,ABC 7
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1,ACC Networc
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,AMG
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1,NImbus Playout
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,Big Life
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Black News Channel
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1,Bloomberg TV US Live Event
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1,Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Brat Tv
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Auto Moto
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1,Clarity 4k
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,Filmstream
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,CNN-HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1,MyTime movie 1
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime movie 2
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nasa UHD
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,Westerns 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+#EXTINF:-1,MTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+#EXTINF:-1,RTVP 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69645.ts
+#EXTINF:-1,RTVP 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69646.ts
+#EXTINF:-1,RTVP 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69647.ts
+#EXTINF:-1,RTP Memoria
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69648.ts
+#EXTINF:-1,RTP Africa
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69649.ts
+#EXTINF:-1,RTV Globo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69650.ts
+#EXTINF:-1,RTV Globo New
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69651.ts
+#EXTINF:-1,TVI
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69652.ts
+#EXTINF:-1,TVI 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69653.ts
+#EXTINF:-1,TVI Ficcao
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69654.ts
+#EXTINF:-1,SIC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69655.ts
+#EXTINF:-1,Sic Radical
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69656.ts
+#EXTINF:-1,SIC Noticias
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69657.ts
+#EXTINF:-1,Sic Mulher
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69658.ts
+#EXTINF:-1,TV Cine Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69659.ts
+#EXTINF:-1,TV Cine Top
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69660.ts
+#EXTINF:-1,TV Cine Edition
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69661.ts
+#EXTINF:-1,TV Cine Emotion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69662.ts
+#EXTINF:-1,Cinemundo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69663.ts
+#EXTINF:-1,Hollywood
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69664.ts
+#EXTINF:-1,Fox
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69665.ts
+#EXTINF:-1,Fox Life 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69666.ts
+#EXTINF:-1,Fox Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69667.ts
+#EXTINF:-1,Fox Crime 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69668.ts
+#EXTINF:-1,Fox Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69669.ts
+#EXTINF:-1,AXN Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69670.ts
+#EXTINF:-1,Nat Geo 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69671.ts
+#EXTINF:-1,National G Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69672.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69673.ts
+#EXTINF:-1,Caca.Pesca
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69674.ts
+#EXTINF:-1,24 Kitchen
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69675.ts
+#EXTINF:-1,Disney Junior 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69676.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69677.ts
+#EXTINF:-1,Nickelodeon
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69678.ts
+#EXTINF:-1,Canal Panda
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69679.ts
+#EXTINF:-1,SIC Kids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69680.ts
+#EXTINF:-1,Baby Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69681.ts
+#EXTINF:-1,Porto Canal
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69682.ts
+#EXTINF:-1,LA 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69297.ts
+#EXTINF:-1,LA 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69298.ts
+#EXTINF:-1,Antena 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69299.ts
+#EXTINF:-1,Cuatro 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69300.ts
+#EXTINF:-1,Telecinco
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69301.ts
+#EXTINF:-1,LA Sexta
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69302.ts
+#EXTINF:-1,Aragon Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69303.ts
+#EXTINF:-1,Neox
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69304.ts
+#EXTINF:-1,Nova 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69305.ts
+#EXTINF:-1,Movistar Accion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69306.ts
+#EXTINF:-1,Movistar Comedia
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69307.ts
+#EXTINF:-1,Movistar Drama
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69309.ts
+#EXTINF:-1,Movistar Series
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69308.ts
+#EXTINF:-1,Cale 13
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69310.ts
+#EXTINF:-1,Hollywood
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69311.ts
+#EXTINF:-1,Comedy Central
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69312.ts
+#EXTINF:-1,Syfy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69313.ts
+#EXTINF:-1,AXN 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69314.ts
+#EXTINF:-1,FOX 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69315.ts
+#EXTINF:-1,National Geographic 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69316.ts
+#EXTINF:-1,National Geographic Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69317.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69318.ts
+#EXTINF:-1,Caza Y Pesca
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69319.ts
+#EXTINF:-1,Crimen + Investigacion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69323.ts
+#EXTINF:-1,Boing
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69321.ts
+#EXTINF:-1,Nick Jr 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69320.ts
+#EXTINF:-1,Disney Junior  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69322.ts
+#EXTINF:-1,Disney Channel 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69324.ts
+#EXTINF:-1,EPT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69280.ts
+#EXTINF:-1,EPT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69281.ts
+#EXTINF:-1,EPT 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69282.ts
+#EXTINF:-1,EPT News
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69283.ts
+#EXTINF:-1,ANT1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69284.ts
+#EXTINF:-1,SKAI
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69285.ts
+#EXTINF:-1,STAR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69286.ts
+#EXTINF:-1,Rik Sat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69294.ts
+#EXTINF:-1,MEGA Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69287.ts
+#EXTINF:-1,Alpha
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69288.ts
+#EXTINF:-1,Open Beyond
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69289.ts
+#EXTINF:-1,Sigma Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69290.ts
+#EXTINF:-1,Macedonia Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69296.ts
+#EXTINF:-1,Baraza TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69291.ts
+#EXTINF:-1,Baraza TV Greek Music Hits
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69292.ts
+#EXTINF:-1,Mad Greece
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69293.ts
+#EXTINF:-1,Fox Tv Greece
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69295.ts
+#EXTINF:-1,BNT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68913.ts
+#EXTINF:-1,BNT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68914.ts
+#EXTINF:-1,BNT 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68916.ts
+#EXTINF:-1,BHTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68915.ts
+#EXTINF:-1,btv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68919.ts
+#EXTINF:-1,Alfa TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68917.ts
+#EXTINF:-1,Fen Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68918.ts
+#EXTINF:-1,TV 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68940.ts
+#EXTINF:-1,Tv Europa
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68938.ts
+#EXTINF:-1,HBO 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68921.ts
+#EXTINF:-1,HBO 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68922.ts
+#EXTINF:-1,HBO 3 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68923.ts
+#EXTINF:-1,Cinemax 1 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68924.ts
+#EXTINF:-1,Cinemax 2 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68925.ts
+#EXTINF:-1,btv Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68926.ts
+#EXTINF:-1,Fox 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68927.ts
+#EXTINF:-1,Fox Life 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68928.ts
+#EXTINF:-1,Fox Crime 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68929.ts
+#EXTINF:-1,Hobby Tv
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68920.ts
+#EXTINF:-1,Food Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68933.ts
+#EXTINF:-1,Nat Geo 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68930.ts
+#EXTINF:-1,National G. Wild  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68931.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68932.ts
+#EXTINF:-1,TLC 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68934.ts
+#EXTINF:-1,Ekids
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68937.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68935.ts
+#EXTINF:-1,Disney Junior 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68936.ts
+#EXTINF:-1,Folklor TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68941.ts
+#EXTINF:-1,Tiankov Orient Folk
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68942.ts
+#EXTINF:-1,CT 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33442.ts
+#EXTINF:-1,CT 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33443.ts
+#EXTINF:-1,CT 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69351.ts
+#EXTINF:-1,Markiza
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69352.ts
+#EXTINF:-1,Doma 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69327.ts
+#EXTINF:-1,Nova
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33448.ts
+#EXTINF:-1,Nova 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69325.ts
+#EXTINF:-1,Nova Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71249.ts
+#EXTINF:-1,Nova Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71248.ts
+#EXTINF:-1, Spektrum
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33447.ts
+#EXTINF:-1,Paprika
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33449.ts
+#EXTINF:-1,Prima 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71251.ts
+#EXTINF:-1,Prima Love 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33452.ts
+#EXTINF:-1,Prima Zoom
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69326.ts
+#EXTINF:-1,Prima Comedi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71252.ts
+#EXTINF:-1,Joj
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69353.ts
+#EXTINF:-1,Joj Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69354.ts
+#EXTINF:-1,Joj Plus
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71250.ts
+#EXTINF:-1,FilmBox Family 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69355.ts
+#EXTINF:-1,Filmbox Premium
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71253.ts
+#EXTINF:-1,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33451.ts
+#EXTINF:-1,HBO 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/33450.ts
+#EXTINF:-1,Nat Geo  
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69356.ts
+#EXTINF:-1,National G Wild 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69357.ts
+#EXTINF:-1,History 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/69359.ts
+#EXTINF:-1,Discovery 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71255.ts
+#EXTINF:-1,Minimax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71257.ts
+#EXTINF:-1,Disney Canel 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/71258.ts
+#EXTINF:-1,TF1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30985.ts
+#EXTINF:-1,France 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30986.ts
+#EXTINF:-1,M6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30987.ts
+#EXTINF:-1,6 TER
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30988.ts
+#EXTINF:-1,TV Breizh
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30989.ts
+#EXTINF:-1,Paris premiere
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30990.ts
+#EXTINF:-1,FRANCE 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30991.ts
+#EXTINF:-1,C8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30992.ts
+#EXTINF:-1,Lci
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30993.ts
+#EXTINF:-1,TV 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30995.ts
+#EXTINF:-1,AB 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30996.ts
+#EXTINF:-1,W9 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30998.ts
+#EXTINF:-1,RTL 9
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30999.ts
+#EXTINF:-1,Teva
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31001.ts
+#EXTINF:-1,Canal +
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/31000.ts
+#EXTINF:-1,Canal+Cinema
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68334.ts
+#EXTINF:-1,Cine Cinema Emotion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68335.ts
+#EXTINF:-1,Cine Cinema Premier
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68336.ts
+#EXTINF:-1,Cine Cinema Frisson
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68337.ts
+#EXTINF:-1,Sky Cinema Action
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/171.ts
+#EXTINF:-1,Sky Cinema Best Of
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1131.ts
+#EXTINF:-1,Sky Cinema Premieren
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/132.ts
+#EXTINF:-1,Sky Cinema Premieren +24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1125.ts
+#EXTINF:-1,Sky Cinema Special
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1123.ts
+#EXTINF:-1,Sky Cinema Thriller
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1424.ts
+#EXTINF:-1,Sky Cinema Classics
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1120.ts
+#EXTINF:-1,Sky Cinema Family
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4122.ts
+#EXTINF:-1,Sky Cinema Fan
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1124.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39434.ts
+#EXTINF:-1,Sky Atlantic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1126.ts
+#EXTINF:-1,Sky Krimi
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1121.ts
+#EXTINF:-1,Sky One
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4120.ts
+#EXTINF:-1,Sky Replay
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1122.ts
+#EXTINF:-1,Werner TV Comedy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3424.ts
+#EXTINF:-1,Werner TV Film
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3423.ts
+#EXTINF:-1,Werner TV Serie
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1118.ts
+#EXTINF:-1,13th Street
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1128.ts
+#EXTINF:-1,Syfy
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1132.ts
+#EXTINF:-1,Universal Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2874.ts
+#EXTINF:-1,Romance TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1133.ts
+#EXTINF:-1,Kinowelt
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2617.ts
+#EXTINF:-1,RTL Passion
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4121.ts
+#EXTINF:-1,RTL Living
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3422.ts
+#EXTINF:-1,Sony AXN
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8415.ts
+#EXTINF:-1,TLC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3426.ts
+#EXTINF:-1,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1136.ts
+#EXTINF:-1,Nat Geo Wild
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1135.ts
+#EXTINF:-1,Discovery Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26001.ts
+#EXTINF:-1,Animal Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4118.ts
+#EXTINF:-1,History
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26002.ts
+#EXTINF:-1,Crime Investigation
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/37727.ts
+#EXTINF:-1,HGTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75454.ts
+#EXTINF:-1,Cartoon Network
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1116.ts
+#EXTINF:-1,Cartoonito
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1134.ts
+#EXTINF:-1,Nickelodeon 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2550.ts
+#EXTINF:-1,NickJR. 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/20340.ts
+#EXTINF:-1,Disney Channel 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/8281.ts
+#EXTINF:-1,Disney Junior 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4119.ts
+#EXTINF:-1,KiKa 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/142.ts
+#EXTINF:-1,Super RTL 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/144.ts
+#EXTINF:-1,Sky Select 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1129.ts
+#EXTINF:-1,Sky Select 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/137.ts
+#EXTINF:-1,Sky Select 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/138.ts
+#EXTINF:-1,Sky Select 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1130.ts
+#EXTINF:-1,Sky Select 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2548.ts
+#EXTINF:-1,Sky Select 6
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2552.ts
+#EXTINF:-1,Sky Select 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9087.ts
+#EXTINF:-1,Sky Select 8
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9088.ts
+#EXTINF:-1,Amazon Prime 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45115.ts
+#EXTINF:-1,Amazon Prime 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45116.ts
+#EXTINF:-1,Amazon Prime 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45117.ts
+#EXTINF:-1,Amazon Prime 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45118.ts
+#EXTINF:-1,Amazon Prime 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45119.ts
+#EXTINF:-1,ORF 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25988.ts
+#EXTINF:-1,ORF 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/130.ts
+#EXTINF:-1,ORF 3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67960.ts
+#EXTINF:-1,ATV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/146.ts
+#EXTINF:-1,ATV 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4550.ts
+#EXTINF:-1,Puls 4
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/707.ts
+#EXTINF:-1,Puls 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/67961.ts
+#EXTINF:-1,OE 24
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72611.ts
+#EXTINF:-1,R9 Osterreich
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/72612.ts
+#EXTINF:-1,FS1 Salzburg
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/45188.ts
+#EXTINF:-1,SRF 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2504.ts
+#EXTINF:-1,SRF 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25989.ts
+#EXTINF:-1,SRF INFO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25841.ts
+#EXTINF:-1,Tele Zurich
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/5051.ts
+#EXTINF:-1,RTL Luxembourg
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4313.ts
+#EXTINF:-1,RTL Luxembourg 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4312.ts
+#EXTINF:-1,Das Erste HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39952.ts
+#EXTINF:-1,ZDF HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/39953.ts
+#EXTINF:-1,Kabel 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9752.ts
+#EXTINF:-1,RTL HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9751.ts
+#EXTINF:-1,RTL 2 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9756.ts
+#EXTINF:-1,Pro 7 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9753.ts
+#EXTINF:-1,Vox HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9754.ts
+#EXTINF:-1,Sat 1 HD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/9755.ts
+#EXTINF:-1,Das Erste
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/555.ts
+#EXTINF:-1,ZDF
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/133.ts
+#EXTINF:-1,Kabel 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/554.ts
+#EXTINF:-1,Nitro
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3427.ts
+#EXTINF:-1,RTL
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/134.ts
+#EXTINF:-1,RTL 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/139.ts
+#EXTINF:-1,RTL Crime
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32441.ts
+#EXTINF:-1,RTL UP
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/30942.ts
+#EXTINF:-1,Pro 7
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/141.ts
+#EXTINF:-1,Vox 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/143.ts
+#EXTINF:-1,Sat 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/135.ts
+#EXTINF:-1,ProSieben Maxx
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2337.ts
+#EXTINF:-1,Arte
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2549.ts
+#EXTINF:-1,ONE 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/68703.ts
+#EXTINF:-1,Tele 5
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3987.ts
+#EXTINF:-1,3 sat
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2829.ts
+#EXTINF:-1,Sixx
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1603.ts
+#EXTINF:-1,DMAX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/302.ts
+#EXTINF:-1,SAT 1 Gold
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25991.ts
+#EXTINF:-1,Euronews
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1216.ts
+#EXTINF:-1, Spiegel Geschichte
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2380.ts
+#EXTINF:-1,ZDF Neo
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32387.ts
+#EXTINF:-1,ZDF info
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/38416.ts
+#EXTINF:-1,Welt
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/26666.ts
+#EXTINF:-1,Phoenix
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25842.ts
+#EXTINF:-1,N-TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/3419.ts
+#EXTINF:-1,Servus TV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/2830.ts
+#EXTINF:-1,WDR
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/40759.ts
+#EXTINF:-1,MTV
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/32390.ts
+#EXTINF:-1,Kabel 1 Classics
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76416.ts
+#EXTINF:-1, Deluxe Music 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16757.ts
+#EXTINF:-1,SWR Fernsehen BW
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75958.ts
+#EXTINF:-1,NDR 
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/75964.ts
+#EXTINF:-1,SR 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/76417.ts
